@@ -1,0 +1,1 @@
+Simple App that creates API to get the IP of the Linux server it running on.
