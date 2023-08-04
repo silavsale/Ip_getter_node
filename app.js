@@ -2,7 +2,7 @@ const express = require('express');
 const os = require('os');
 
 const app = express();
-const port = 3000;
+const port = 8777;
 
 app.get('/api/ip', (req, res) => {
   const networkInterfaces = os.networkInterfaces();

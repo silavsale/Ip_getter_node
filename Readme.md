@@ -6,4 +6,5 @@ Install pm2 (PM2 is a process manager for the JavaScript runtime Node.js. ) to r
 
 Run with pm2
 
-` pm2 start app.js `
+` pm2 start app.js --name "IpGetter"
+`
